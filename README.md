@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning **Adobe Photoshop**
 
-- 👯 I’m looking to collaborate on **My aim is to create impactful applications that not only solve problems but also elevate user experiences. I'm passionate about leveraging technology to make a positive difference. Looking forward to connecting with like-minded individuals, learning, and crafting exceptional digital experiences together! 🚀**
-
 - 👨‍💻 All of my projects are available at [https://www.shresthamanish.info.np/](https://www.shresthamanish.info.np/)
 
 - 💬 Ask me about **C,C++**
