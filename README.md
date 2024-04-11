@@ -10,11 +10,11 @@
  
 - 🔭 I’m currently working on **App Development**
 
-- 🌱 I’m currently learning **Adobe Photoshop**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://www.shresthamanish.info.np/](https://www.shresthamanish.info.np/)
 
-- 💬 Ask me about **C,C++**
+- 💬 Ask me about **Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
