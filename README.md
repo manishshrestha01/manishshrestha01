@@ -8,15 +8,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 👩🏻‍🎓 I'm currently studying **Computer Engineering** at **Pokhara Engineering College**
+- ### 👩🏻‍🎓 I'm currently studying **Computer Engineering** at **Pokhara Engineering College**
  
-- 🔭 I’m currently working on **App Development**
+- ### 🔭 I’m currently working on **App Development**
 
-- 🌱 I’m currently learning **JavaScript**
+- ### 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at **[https://www.shresthamanish.info.np/](https://www.shresthamanish.info.np/)**
+- ### 👨‍💻 All of my projects are available at **[https://www.shresthamanish.info.np/](https://www.shresthamanish.info.np/)**
 
-- 📧 Reach me through **contact@shresthamanish.info.np**
+- ### 📧 Reach me through **contact@shresthamanish.info.np**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
