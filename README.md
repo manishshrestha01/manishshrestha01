@@ -23,7 +23,6 @@
 <a href="https://twitter.com/manish20040041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manish20040041" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manish-shrestha-b250802b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish-shrestha-b250802b7" height="30" width="40" /></a>
 <a href="https://instagram.com/manishstha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manishstha_" height="30" width="40" /></a>
-<a href="/https://mylinks.ai/manishshrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://mylinks.ai/manishshrestha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
