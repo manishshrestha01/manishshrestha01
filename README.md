@@ -1,10 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Manish!</h1>
-<h3 align="center">A Passionate Developer from Nepal 🇳🇵</h3>
+
+<h2 align="center">A Passionate Developer from Nepal 🇳🇵</h2>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=manishshrestha01&label=Profile%20views&color=0e75b6&style=flat" alt="manishshrestha01" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manishshrestha01&label=Profile%20views&color=0e75b6&style=flat" alt="manishshrestha01" /> </p>
 
 - 👩🏻‍🎓 I'm currently studying **Computer Engineering** at **Pokhara Engineering College**
  
@@ -12,9 +14,9 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://www.shresthamanish.info.np/](https://www.shresthamanish.info.np/)
+- 👨‍💻 All of my projects are available at **[https://www.shresthamanish.info.np/](https://www.shresthamanish.info.np/)**
 
-- 💬 Ask me about **Web Development**
+- 📧 Reach me through **contact@shresthamanish.info.np**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
