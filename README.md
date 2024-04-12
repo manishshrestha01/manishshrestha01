@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- ### 👩🏻‍🎓 I'm currently studying **Computer Engineering** at **Pokhara Engineering College**
+- ### 👩🏻‍🎓 I'm currently studying **Computer Engineering**
  
 - ### 🔭 I’m currently working on **App Development**
 
