@@ -1,7 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Manish!</h1>
 
-<h2 align="center">A Passionate Developer from Nepal 🇳🇵</h2>
+<!-- <h3 align="center">A Computer Science Student</h3> -->
+
+<p align="center">
+  <a href="https://github.com/bikramgiri"><img src="https://readme-typing-svg.herokuapp.com/?size=21&center=true&vCenter=true&width=560&height=45&lines=A+Computer+Science+Student"></a>
+</p>
+
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manishshrestha01&label=Profile%20views&color=0e75b6&style=flat" alt="manishshrestha01" /> </p>
