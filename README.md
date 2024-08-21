@@ -4,7 +4,7 @@
 <!-- <h3 align="center">A Computer Science Student</h3> -->
 
 <p align="center">
-  <a href="https://github.com/bikramgiri"><img src="https://readme-typing-svg.herokuapp.com/?size=21&center=true&vCenter=true&width=560&height=45&lines=A+Computer+Science+Student"></a>
+  <a href="https://github.com/manishshrestha01"><img src="https://readme-typing-svg.herokuapp.com/?size=21&center=true&vCenter=true&width=560&height=45&lines=A+Computer+Science+Student"></a>
 </p>
 
 
