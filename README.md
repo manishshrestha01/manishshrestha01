@@ -36,5 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishshrestha01&show_icons=true&locale=en" alt="manishshrestha01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishshrestha01&" alt="manishshrestha01" /></p>
 
