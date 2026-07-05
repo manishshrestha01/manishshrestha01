@@ -30,7 +30,7 @@
 ```typescript
 const manish = {
   role: "Full Stack Developer & Generative AI Engineer",
-  location: "Rambazar, Pokhara 🇳🇵  •  Available Worldwide 🌍",
+  location: "Pokhara 🇳🇵  •  Available Worldwide 🌍",
   code: ["Python", "JavaScript", "Dart", "SQL"],
   stack: ["React", "Next.js", "Node.js", "Express", "Flutter"],
   ai:    ["RAG", "LLMs", "Generative AI", "LangChain"],
