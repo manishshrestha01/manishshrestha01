@@ -106,7 +106,7 @@ const manish = {
 | **[KeyDash v2](https://keydash.shresthamanish.info.np/)** | Real-time competitive typing & coding platform — multiplayer races, AI battles, streaks, challenges & global leaderboards | `React` `Supabase` `PostgreSQL` `WebSocket` |
 | **[KeyDash](https://keydash.shresthamanish.info.np/)** | Web platform to test & improve typing speed, accuracy and reaction time with live performance analytics | `React` `Tailwind` `Supabase` |
 | **[StudyMate](https://www.manishshrestha012.com.np/)** | Web platform for finding notes of BE Computer of Pokhara University | `React` `Supabase` `PostgreSQL` |
-| **Student Portal** | Cross-platform mobile app (iOS & Android) with auth, student dashboard & course management | `Flutter` `Firebase` |
+| **Student Portal** | Cross-platform mobile app (iOS & Android) with auth, student dashboard & course management | `Flutter` `Postman` |
 
 <!-- ====================== EXPERIENCE ====================== -->
 ## 💼 Experience
