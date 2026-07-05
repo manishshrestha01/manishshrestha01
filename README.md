@@ -21,10 +21,10 @@
 
 ## 🚀 Featured Projects
 
-- **[KeyDash](https://www.shresthamanish.info.np/)** — Typing speed & accuracy platform (React, Tailwind, Supabase)
+- **[KeyDash](https://keydash.shresthamanish.info.np/)** — Typing speed & accuracy platform (React, Tailwind, Supabase)
 - **[StudyMate](manishshrestha012.com.np)** — Study resource hub for Pokhara University Computer Engineering
 - **Student Portal** — Flutter app 
-- **Portfolio Website** — Built with HTML5, CSS3, JavaScript
+- **[Portfolio Website](https://www.shresthamanish.info.np/)** — Built with HTML5, CSS3, JavaScript
 - **[Graphic Design Portfolio](https://www.behance.net/gallery/243211181/Portfolio)** — Showcased on Behance
 
 ## 💼 Experience
