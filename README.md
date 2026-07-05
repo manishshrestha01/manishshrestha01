@@ -17,7 +17,7 @@
 
 - ### 👨‍💻 See all of my work at **[shresthamanish.info.np](https://www.shresthamanish.info.np/)**
 
-- ### 📧 Reach me at **shresthamanish8080@gmail.com**
+- ### 📧 Reach me at **contact@shresthamanish.info.np**
 
 ## 🚀 Featured Projects
 
