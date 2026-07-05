@@ -6,7 +6,7 @@
 <!-- ====================== TYPING INTRO ====================== -->
 <p align="center">
   <a href="https://www.shresthamanish.info.np/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+%F0%9F%9A%80;Generative+AI+%26+RAG+Engineer+%F0%9F%A4%96;Flutter+Mobile+App+Developer+%F0%9F%93%B1;Designer+%26+Video+Editor+%F0%9F%8E%A8;Computer+Engineering+Student+%40+Pokhara+University" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+%F0%9F%9A%80;Flutter+Mobile+App+Developer+%F0%9F%93%B1;Designer+%26+Video+Editor+%F0%9F%8E%A8" alt="Typing SVG" />
   </a>
 </p>
 
