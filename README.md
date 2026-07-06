@@ -94,7 +94,7 @@ const manish = {
 
 **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode&theme=dark" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,postman&theme=dark" alt="tools" />
 </p>
 
 <!-- ====================== FEATURED PROJECTS ====================== -->
@@ -107,21 +107,6 @@ const manish = {
 | **[KeyDash](https://keydash.shresthamanish.info.np/)** | Web platform to test & improve typing speed, accuracy and reaction time with live performance analytics | `React` `Tailwind` `Supabase` |
 | **[StudyMate](https://www.manishshrestha012.com.np/)** | Web platform for finding notes of BE Computer of Pokhara University | `React` `Supabase` `PostgreSQL` |
 | **Student Portal** | Cross-platform mobile app (iOS & Android) with auth, student dashboard & course management | `Flutter` `Postman` |
-
-<!-- ====================== EXPERIENCE ====================== -->
-## 💼 Experience
-
-**📱 Flutter Developer — Internship** · *Code IT, Dharan (Remote)* · `Apr 2026 – Jul 2026`
-> Built & maintained a cross-platform **Student Portal** app (iOS & Android) — auth, dashboard, course management. Collaborated with senior devs & QA in agile sprints, using Git across the full mobile lifecycle.
-
-**🎨 Graphic Designer — Internship** · *XDezo Technologies, Pokhara* · `Nov 2025 – Feb 2026`
-> Designed visual content for digital marketing, web & social campaigns for enterprise clients. Worked with dev & marketing teams on brand-consistent assets using Adobe Creative Suite.
-
-<!-- ====================== EDUCATION ====================== -->
-## 🎓 Education
-
-**Bachelor of Engineering in Computer Engineering** · *Pokhara Engineering College, Pokhara University* · `Jan 2023 – Present`
-> Currently in **Semester VIII**. Relevant coursework: *Artificial Intelligence, Machine Learning, Image Processing & Pattern Recognition, Cloud Computing & Virtualization, Data Science & Analytics, Network & Cyber Security, Compiler Design, Software Engineering, DBMS, Operating Systems.*
 
 <!-- ====================== GITHUB STATS ====================== -->
 ## 📊 GitHub Analytics
