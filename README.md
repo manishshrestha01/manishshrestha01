@@ -112,17 +112,17 @@ const manish = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=manishshrestha01&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=manishshrestha01&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
   <img width="40%" src="https://streak-stats.demolab.com/?user=manishshrestha01&hide_border=true&background=0d1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishshrestha01&layout=compact&hide_border=true&langs_count=10&title_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" alt="top langs" />
+  <img width="60%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=manishshrestha01&layout=compact&hide_border=true&langs_count=10&title_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" alt="top langs" />
 </p>
 
 <!-- ====================== TROPHIES ====================== -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manishshrestha01&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+  <img src="https://gh-trophy.cdnsoft.net/?username=manishshrestha01&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
 </p>
 
 <!-- ====================== ACTIVITY GRAPH ====================== -->
