@@ -29,12 +29,11 @@
 
 ```typescript
 const manish = {
-  role: "Full Stack Developer & Generative AI Engineer",
+  role: "Full Stack Developer",
   location: "Pokhara 🇳🇵  •  Available Worldwide 🌍",
   code: ["Python", "JavaScript", "Dart", "SQL"],
   stack: ["React", "Next.js", "Node.js", "Express", "Flutter"],
-  ai:    ["RAG", "LLMs", "Generative AI", "LangChain"],
-  data:  ["PostgreSQL", "Supabase", "Firebase", "Vector DBs"],
+  data:  ["PostgreSQL", "Supabase", "Firebase"],
   design: ["Photoshop", "Illustrator", "InDesign", "Canva", "Premiere Pro"],
   qa:    ["Selenium", "Manual Testing", "Test Case Design"],
   motto: "I build digital products that refuse to be boring.",
@@ -43,7 +42,6 @@ const manish = {
 ```
 
 - 🔭 &nbsp;**Full Stack Developer** building AI-powered apps with **FastAPI, React & RAG**
-- 🤖 &nbsp;Passionate about **Generative AI, LLMs & Retrieval-Augmented Generation**
 - 📱 &nbsp;Cross-platform **mobile developer** with **Flutter** (iOS & Android)
 - 🎓 &nbsp;**B.E. Computer Engineering** @ Pokhara Engineering College *(Semester VIII)*
 - 🎨 &nbsp;Visual designer & video editor across the **Adobe Creative Suite + Canva**
@@ -67,15 +65,11 @@ const manish = {
 **Backend & Generative AI**
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="backend & ai" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain" height="42"/>
-  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" alt="rag" height="42"/>
-  <img src="https://img.shields.io/badge/LLMs-FF6F61?style=for-the-badge&logo=openai&logoColor=white" alt="llms" height="42"/>
 </p>
 
 **Databases & Cloud**
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,supabase,firebase,aws,docker&theme=dark" alt="databases & cloud" />
-  <img src="https://img.shields.io/badge/Vector_DBs-0A7E8C?style=for-the-badge&logo=chromadb&logoColor=white" alt="vector databases" height="42"/>
 </p>
 
 **QA & Testing**
